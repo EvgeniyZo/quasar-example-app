@@ -27,7 +27,7 @@
     "autoprefixer": "^10.4.2",
     "electron": "^29.3.0",
     "electron-packager": "^17.1.2",
-    "eslint": "^8.11.0",
+    "eslint": "^9.0.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-vue": "^9.0.0",
     "postcss": "^8.4.14",
